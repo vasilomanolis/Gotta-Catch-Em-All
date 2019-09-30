@@ -27,7 +27,7 @@ In this project we are using the following two APIs to get the Pokémon descript
 
 ## Prerequisites
 - [M.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
-- Packages:
+Packages:
 - [Microsoft.EntityFrameworkCore.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/)
 - [Microsoft.EntityFrameworkCore.InMemory (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/)
 - [Microsoft.EntityFrameworkCore.SqlServer (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/)
@@ -38,7 +38,7 @@ In this project we are using the following two APIs to get the Pokémon descript
 
 ## Usage
 
-after fulfilling the prerequisites just download, open and run the solution with Visual Studio. While you run the project, copy-paste the following in [httpie](https://httpie.org/):
+After fulfilling the prerequisites just download, open, and run the solution with Visual Studio. While you run the project, copy-paste the following in [httpie](https://httpie.org/):
 
 ```bash
 http --verify=no https://localhost:5001/get/pokemon/charizard
