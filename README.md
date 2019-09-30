@@ -50,7 +50,7 @@ You should see the following:
 
 ![Usage Gif Example](https://github.com/vasilomanolis/Gotta-Catch-Em-All/blob/master/l19.gif)
 
-In case you search for an unknown Pokémon you'll receive the following message referring to the famous [MissingNo Pokémon species](https://en.wikipedia.org/wiki/MissingNo.).
+In case you search for an unknown Pokémon you'll receive a user-friendly message referring to the famous [MissingNo Pokémon species](https://en.wikipedia.org/wiki/MissingNo.).
 
 
 ## Contributing
