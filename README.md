@@ -32,7 +32,7 @@ Newtonsoft.Json
 
 ## Usage
 
-Just download, open and run the solution with Visual Studio. While you running the project, copy-paste the following in [httpie](https://httpie.org/):
+after fulfilling the prerequisites just download, open and run the solution with Visual Studio. While you run the project, copy-paste the following in [httpie](https://httpie.org/):
 
 ```bash
 http --verify=no https://localhost:5001/get/pokemon/charizard
