@@ -27,6 +27,7 @@ In this project we are using the following two APIs to get the Pokémon descript
 
 ## Prerequisites
 - [M.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+
 Packages:
 - [Microsoft.EntityFrameworkCore.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/)
 - [Microsoft.EntityFrameworkCore.InMemory (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/)
