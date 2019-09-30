@@ -18,6 +18,13 @@ heat yond 't melts aught. However, 't nev'r turns its fiery breath on any oppone
 }
 ```
 
+## External APIs
+In this project we are using the following two APIs to get the Pokémon description and translate it to Shakespeare’s style.
+```
+- Shakespeare translator: https://funtranslations.com/api/shakespeare
+- PokéAPI: https://pokeapi.co/docs/v2.html/
+```
+
 ## Prerequisites
 - [M.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 - Packages:
