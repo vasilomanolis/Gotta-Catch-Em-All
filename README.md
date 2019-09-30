@@ -28,14 +28,13 @@ In this project we are using the following two APIs to get the Pokémon descript
 ## Prerequisites
 - [M.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 - Packages:
-```bash
-[Microsoft.EntityFrameworkCore.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/)
-[Microsoft.EntityFrameworkCore.InMemory (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/)
-[Microsoft.EntityFrameworkCore.SqlServer (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/
-[Microsoft.VisualStudio.Web.CodeGeneration.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.VisualStudio.Web.CodeGeneration.Design/)
-[PokeApi.NET (1.1.2)](https://www.nuget.org/packages/PokeApi.NET/)
-[Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/12.0.3-beta1)
-```
+- [Microsoft.EntityFrameworkCore.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/)
+- [Microsoft.EntityFrameworkCore.InMemory (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/)
+- [Microsoft.EntityFrameworkCore.SqlServer (3.0.0)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/)
+- [Microsoft.VisualStudio.Web.CodeGeneration.Design (3.0.0)](https://www.nuget.org/packages/Microsoft.VisualStudio.Web.CodeGeneration.Design/)
+- [PokeApi.NET (1.1.2)](https://www.nuget.org/packages/PokeApi.NET/)
+- [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/12.0.3-beta1)
+
 
 ## Usage
 
