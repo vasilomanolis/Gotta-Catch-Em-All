@@ -1,6 +1,6 @@
 # Gotta Catch 'Em All 
 
-Hey, you Pokémon trainer! This web API built with ASP.NET Core returns the description of a given Pokémon written using Shakespeare’s style.
+Hey you, Pokémon trainer! This web API built with ASP.NET Core returns the description of a given Pokémon written using Shakespeare’s style.
 
 For example:
 
@@ -10,50 +10,44 @@ http --verify=no https://localhost:5001/get/pokemon/charizard
 
 will return:
 
-```bash
-{ "description": "Charizard flies 'round the sky in search 
-of powerful opponents. 't breathes fire of such most wondrous 
-heat yond 't melts aught. 
-However, 't nev'r turns its fiery 
-breath on 
-any opponent weaker than itself.", "name": "charizard" }
+```
+{ 
+  "description": "Charizard flies 'round the sky in search of powerful opponents. 't breathes fire of such most wondrous 
+heat yond 't melts aught. However, 't nev'r turns its fiery breath on any opponent weaker than itself.", 
+  "name": "charizard" 
+}
 ```
 
-
-## Installation
-
-The fastest way to inspect the code is by following these steps: 
-1. Download an open solution
-2. Ensure you have installed xx ()
-3. You might need to install the following 4 packages
--
--
--
--
-4. Ensure you have
-
+## Prerequisites
+- [M.NET Core 3.0 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+- Packages:
+```bash
+Microsoft.EntityFrameworkCore.Design (3.0.0)
+Microsoft.EntityFrameworkCore.InMemory (3.0.0)
+Microsoft.EntityFrameworkCore.SqlServer (3.0.0)
+Microsoft.VisualStudio.Web.CodeGeneration.Design (3.0.0)
+PokeApi.NET (1.1.2)
+Newtonsoft.Json
+```
 
 ## Usage
 
-While you running the project, copy-paste the following in httpie:
+Just download, open and run the solution with Visual Studio. While you running the project, copy-paste the following in [httpie](https://httpie.org/):
 
 ```bash
 http --verify=no https://localhost:5001/get/pokemon/charizard
 http --verify=no https://localhost:5001/get/pokemon/bulbasaur
 ```
 
-You should see the following: 
+You should see the following:
 
-// img
+![Usage Gif Example](https://github.com/vasilomanolis/Gotta-Catch-Em-All/blob/master/l19.gif)
 
-In case you search for an unknown Pokémon you'll receive the following message :
+In case you search for an unknown Pokémon you'll receive the following message referring to the famous [MissingNo Pokémon species](https://en.wikipedia.org/wiki/MissingNo.).
 
-// img
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
