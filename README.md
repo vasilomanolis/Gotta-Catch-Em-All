@@ -1,6 +1,6 @@
 # Gotta Catch 'Em All 
 
-Hey you, Pokémon trainer! This web API built with ASP.NET Core returns the description of a given Pokémon written using Shakespeare’s style.
+Hey you, Pokémon trainer! This web API built with ASP.NET Core returns the description of a given Pokémon written in Shakespeare’s style.
 
 For example:
 
