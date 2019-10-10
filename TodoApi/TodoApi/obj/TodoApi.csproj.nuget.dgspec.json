@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vasilis/Documents/TodoApi/TodoApi/TodoApi.csproj": {}
+    "/Users/vasilis/Documents/GitHub/Gotta-Catch-Em-All/TodoApi/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/vasilis/Documents/TodoApi/TodoApi/TodoApi.csproj": {
+    "/Users/vasilis/Documents/GitHub/Gotta-Catch-Em-All/TodoApi/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vasilis/Documents/TodoApi/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/vasilis/Documents/GitHub/Gotta-Catch-Em-All/TodoApi/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/vasilis/Documents/TodoApi/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/vasilis/Documents/GitHub/Gotta-Catch-Em-All/TodoApi/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/vasilis/.nuget/packages/",
-        "outputPath": "/Users/vasilis/Documents/TodoApi/TodoApi/obj/",
+        "outputPath": "/Users/vasilis/Documents/GitHub/Gotta-Catch-Em-All/TodoApi/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
